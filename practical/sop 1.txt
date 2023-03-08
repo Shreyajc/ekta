@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> playing audio file</title>
+<body>
+<h1> align ="center" audio with control</h1> 
+<audio control autoplay bop ="-1">
+<source src = "‪ " type="‪audio.1/mpeg">
+</audio>
+</body>
+</html>
